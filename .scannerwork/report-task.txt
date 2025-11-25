@@ -1,0 +1,7 @@
+organization=jzurit4
+projectKey=jzurit4_GranMulti
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.76802
+dashboardUrl=https://sonarcloud.io/dashboard?id=jzurit4_GranMulti
+ceTaskId=AZq8eVTzoPePtG_cr5DG
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZq8eVTzoPePtG_cr5DG
